@@ -204,12 +204,16 @@ C++ pricing frameworks implementing three methodologies — **Exact solution**, 
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aditi24224&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi24224&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi24224&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi24224&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditi24224&theme=tokyonight" width="700"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditi24224&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditi24224&theme=tokyonight" height="165"/>
 </div>
 
 ---
